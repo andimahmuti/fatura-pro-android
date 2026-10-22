@@ -19,7 +19,7 @@
 * **📱 Orientim Adaptiv i Ekranit:**
   * **Smartphone:** I kyçur në mënyrë vertikale (*Portrait mode*) për përdorim sa më të rehatshëm.
   * **Tableta ($\ge$ 600dp):** Mbështet si mënyrën vertikale ashtu edhe horizontale (*Portrait & Landscape mode*).
-* **⚡ APK të Optimizuara & Super të Lehta:** Të ngjeshura përmes R8 dhe optimizimit të burimeve, me madhësi minimale (~5-7 MB për çdo arkitekturë).
+* **⚡ APK të Optimizuara & Super të Lehta:** Të ngjeshura përmes R8 dhe optimizimit të burimeve.
 * **🌐 Mbështetje për të Gjitha Arkitekturat:** Ofrohet për `arm64-v8a`, `armeabi-v7a`, `x86_64`, `x86` dhe versionin `universal`.
 
 ---
@@ -47,7 +47,3 @@ Mund të shkarkoni APK-në e gatshme dhe të optimizuar për pajisjen tuaj direk
 ## 📜 Licenca
 
 Ky projekt është me burim të hapur dhe i disponueshëm nën [Licencën MIT](LICENSE).
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
