@@ -7,29 +7,39 @@
   <img src="https://img.shields.io/badge/Arkitektura-Moderne%20%26%20Optimized-orange.svg" alt="Architecture">
 </p>
 
-**FATURA Pro** është një sistem profesional, i shpejtë dhe me burim të hapur (Open Source) për pikë shitjeje (POS) dhe menaxhim faturash në Android, i ndërtuar me teknologjitë më moderne (Kotlin, Jetpack Compose, Room Database).
+# FATURA Pro (OPEN SOURCE) Project📱🧾
+
+**FATURA Pro** është një aplikacion profesional dhe modern për Android (POS & Sistem Faturimi), i ndërtuar ne gjuhen Shqipe dhe me teknologjitë më të fundit të Android (Jetpack Compose, Room Database) për bizneset e vogla dhe të mesme. Ky sistem është projektuar për të ofruar shpejtësi, lehtësi përdorimi dhe menaxhim efikas të shitjeve direkt nga pajisja juaj smartphone ose tablet.
 
 ---
 
-## ✨ Veçoritë Kryesore
+## 🚀 Veçoritë Kryesore (Key Features)
 
-* **🧾 Menaxhim i Faturave & Shitjeve:** Shtim produktesh në shportë, llogaritje automatike të totalit, TVSH-së dhe transaksioneve.
-* **🖨️ Printim Bluetooth ESC/POS:** Mbështetje e plotë për printerat termikë Bluetooth të faturave me mundësi printimi logoje.
-* **📊 Raporte & Historiku:** Ndjekje e detajuar e qarkullimit ditor, historikut të shitjeve dhe faturave të ruajtura.
-* **📱 Orientim Adaptiv i Ekranit:**
-  * **Smartphone:** I kyçur në mënyrë vertikale (*Portrait mode*) për përdorim sa më të rehatshëm.
-  * **Tableta ($\ge$ 600dp):** Mbështet si mënyrën vertikale ashtu edhe horizontale (*Portrait & Landscape mode*).
-* **⚡ APK të Optimizuara & Super të Lehta:** Të ngjeshura përmes R8 dhe optimizimit të burimeve.
-* **🌐 Mbështetje për të Gjitha Arkitekturat:** Ofrohet për `arm64-v8a`, `armeabi-v7a`, `x86_64`, `x86` dhe versionin `universal`.
+- **Sistemi i Shitjeve & Shporta (POS):** Menaxhim i shpejtë i produkteve, sasisë dhe llogaritjeve totale të faturës në kohë reale.
+- **Lexues i Barkodeve (Barcode Reader):** Skanim i shpejtë dhe i saktë i barkodeve të produkteve për të shtuar artikujt në faturë pa pasur nevojë për kërkim manual.
+- **Integrimi i Kamerës (Camera Support):** Përdorimi i kamerës së pajisjes për leximin e barkodeve ose menaxhimin e imazheve të produkteve.
+- **Menaxhimi i Stokut & Linja e Kuqe (Stock Management & Low Stock Alert):** Gjurmim automatik i sasisë së artikujve në magazinë dhe sinjalizim vizual (*linja/pika e kuqe*) kur stoku bie nën pragun e caktuar (*lowStockThreshold*).
+- **Printer Bluetooth (ESC/POS):** Mbështetje e plotë për lidhjen dhe printimin e faturave termike përmes printerave Bluetooth ESC/POS.
+- **Raporte & Historiku i Transaksioneve:** Ruajtja dhe gjurmimi i shitjeve, historikut të faturave dhe raporteve ditore përmes *Room Database*.
+- **Përshtatje për Pajisjet (Responsive UI):**
+  - **Smartphone:** I optimizuar për orientim vertikal (*Portrait*).
+  - **Tableta (>= 600dp):** Mbështetje e plotë për orientim vertikal dhe horizontal (*Portrait & Landscape*).
+- **Open Source:** Zhvilluar plotësisht si projekt me burim të hapur nën licencën MIT.
+Mund të shkarkoni APK-në e gatshme dhe të optimizuar për pajisjen tuaj direkt nga faqja nga krahu djathte [Releases] ose poshte pershkrimit 👇👇👇
 
 ---
 
-## 📥 Shkarkimi & Instalimi
+## 📦 Arkitekturat e Mbështetura
+Aplikacioni mbështet arkitekturat kryesore të Android:
+- `arm64-v8a`
+- `armeabi-v7a`
+- `x86_64`
+- `x86`
 
-Mund të shkarkoni APK-në e gatshme dhe të optimizuar për pajisjen tuaj direkt nga faqja [Releases](../../releases):
-* `FATURAPro-arm64-v8a.apk` (Për telefonat dhe tabletat modernë 64-bit)
-* `FATURAPro-armeabi-v7a.apk` (Për pajisjet 32-bit)
-* `FATURAPro-universal.apk` (Versioni universal)
+---
+
+## 📄 Licenca
+Ky projekt është shpërndarë nën [MIT License](LICENSE). Jeni të lirë ta përdorni, modifikoni dhe shpërndani.
 
 ---
 
@@ -43,7 +53,3 @@ Mund të shkarkoni APK-në e gatshme dhe të optimizuar për pajisjen tuaj direk
 * **Target SDK:** Android 35 (API 35)
 
 ---
-
-## 📜 Licenca
-
-Ky projekt është me burim të hapur dhe i disponueshëm nën [Licencën MIT](LICENSE).
