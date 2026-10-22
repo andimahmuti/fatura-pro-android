@@ -26,13 +26,12 @@
   - 📟 **Tableta (>= 600dp):** Mbështetje e plotë për orientim vertikal dhe horizontal (*Portrait & Landscape ↔️*).
 - 🌐 **Open Source:** Zhvilluar plotësisht si projekt me burim të hapur nën licencën MIT 🤝.
 - 
-- 
 
 - 
 - Arkitekturat mund ti shkarkoni (DOWNLOAD) nga krahu i djathte "RELEASES" ose poshte pershkrimit 👇👇👇.
-
 - 
 
+- 
 ---
 
 ## 🛠️ Teknologjitë e Përdorura (Tech Stack)
