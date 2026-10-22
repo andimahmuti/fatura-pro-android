@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fatura</string>
+    <string name="dashboard">Paneli</string>
+    <string name="items">Artikujt</string>
+    <string name="sales">Shitjet</string>
+    <string name="settings">Cilësimet</string>
+    <string name="reports">Raportet</string>
+    <string name="history">Historiku</string>
+
+    <string name="new_sale">Shitje e Re</string>
+    <string name="total_sales">Totali i Shitjeve</string>
+    <string name="transactions">Transaksionet</string>
+    <string name="recent_transactions">Transaksionet e Fundit</string>
+
+    <string name="add_item">Shto Artikull</string>
+    <string name="edit_item">Modifiko Artikullin</string>
+    <string name="item_name">Emri i Artikullit</string>
+    <string name="price">Çmimi</string>
+    <string name="category">Kategoria</string>
+    <string name="tax_rate">Norma e TVSH (%)</string>
+    <string name="stock">Stoku</string>
+    <string name="barcode">Barkodi</string>
+    <string name="save">Ruaj</string>
+    <string name="cancel">Anulo</string>
+    <string name="delete">Fshi</string>
+    <string name="confirm_delete">A jeni i sigurt që dëshironi ta fshini këtë artikull?</string>
+
+    <string name="cart">Shporta</string>
+    <string name="subtotal">Nëntotali</string>
+    <string name="tax">TVSH</string>
+    <string name="discount">Zbritje</string>
+    <string name="total">Totali</string>
+    <string name="pay">Paguaj</string>
+    <string name="cash">Para në dorë</string>
+    <string name="card">Kartë</string>
+    <string name="amount_paid">Shuma e paguar</string>
+    <string name="change">Kusuri</string>
+    <string name="print_receipt">Printo Faturën</string>
+
+    <string name="receipt_settings">Cilësimet e Faturës</string>
+    <string name="business_name">Emri i biznesit</string>
+    <string name="address">Adresa</string>
+    <string name="phone">Telefoni</string>
+    <string name="nipt">NIPT</string>
+    <string name="receipt_number">Numri i faturës</string>
+    <string name="date">Data</string>
+    <string name="time">Ora</string>
+    <string name="logo">Logo</string>
+    <string name="divider">Vija ndarëse</string>
+    <string name="column_headers">Titujt e kolonave</string>
+    <string name="quantity">Sasia</string>
+    <string name="unit_price">Çmimi për njësi</string>
+    <string name="thank_you">Faleminderit!</string>
+    <string name="custom_footer">Tekst personalizuar</string>
+    <string name="paper_size">Madhësia e letrës</string>
+
+    <string name="printer_settings">Cilësimet e Printerit</string>
+    <string name="scan_devices">Kërko pajisje</string>
+    <string name="no_devices">Nuk u gjet asnjë pajisje</string>
+    <string name="connected">I lidhur</string>
+    <string name="disconnected">I shkëputur</string>
+    <string name="test_print">Printim prove</string>
+
+    <string name="daily_report">Raporti Ditor</string>
+    <string name="export_report">Eksporto Raportin</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244898907975",
+    "project_id": "com-example-fatura-61c89",
+    "storage_bucket": "com-example-fatura-61c89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244898907975:android:debfe91fc08d254d2fae62",
+        "android_client_info": {
+          "package_name": "com.albania.fatura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Opy-2GkA_wYGzrX4k61gS0JnJv1jABI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

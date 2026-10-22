@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Fatura</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Baking with Gemini</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Provide a recipe for the baked goods in the image</string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+
+    <string name="dashboard">PANELI</string>
+    <string name="total_sales">Shitjet Totale</string>
+    <string name="transactions">Transaksionet</string>
+    <string name="new_sale">Shitje e Re</string>
+    <string name="items">Artikujt</string>
+    <string name="reports">Raportet</string>
+    <string name="settings">Cilësimet</string>
+    <string name="recent_transactions">Transaksionet e fundit</string>
+    <string name="history">Historia</string>
+    <string name="add_item">Shto Artikull</string>
+    <string name="edit_item">Ndrysho Artikullin</string>
+    <string name="item_name">Emri i Artikullit</string>
+    <string name="price">Çmimi</string>
+    <string name="category">Kategoria</string>
+    <string name="tax_rate">Norma e Tatimit (%)</string>
+    <string name="stock">Stoku</string>
+    <string name="barcode">Barkodi</string>
+    <string name="save">Ruaj</string>
+    <string name="cancel">Anulo</string>
+    <string name="printer_settings">Cilësimet e Printerit</string>
+    <string name="test_print">Printim Prove</string>
+    <string name="receipt_settings">Cilësimet e Faturës</string>
+    <string name="daily_report">Raporti Ditor</string>
+    <string name="sales">Shitjet</string>
+    <string name="cart">Shporta</string>
+    <string name="subtotal">Nëntotali</string>
+    <string name="tax">TVSH</string>
+    <string name="total">Total</string>
+    <string name="amount_paid">Shuma e Paguar</string>
+    <string name="change">Kusuri</string>
+    <string name="cash">Para në dorë</string>
+    <string name="card">Kartë</string>
+    <string name="paired_devices">Pajisjet e Çiftuara</string>
+    <string name="unknown_device">Pajisje e panjohur</string>
+    <string name="connected">Lidhur</string>
+</resources>
